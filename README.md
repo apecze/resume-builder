@@ -19,7 +19,7 @@ Tho following tools needs to be installed on your environment to test this appli
 
 ## Deployment for development & testing purposes
 
- 1. Clone this repository to your environment `git clone git@github.com:apecze/resume.git`
+ 1. Clone this repository to your environment `git clone git@github.com:apecze/resume-builder.git`
  2. navigate to the root folder of the application "/resume/"
  3. To start the development server please run
     ```
